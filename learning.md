@@ -1,9 +1,13 @@
 # XrayZH's Learning Record of rust-based-os-comp2022
 
 ## Day 0 (10/24/2022)
-- Read through rust-based-os-comp2022 schedule documents
+- Learn how it works
+- Read through the comp scheduling documents
+- Sign up for the comp
 - Complete Github Classroom env setup
 
 ## Day 1 (10/25/2022)
 - Start this learning record page
-- 
+- Start Step 0 - learning Rust programming
+- Complete ?/84 rustlings
+- Get exposed to ownership concepts
