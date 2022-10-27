@@ -9,5 +9,13 @@
 ## Day 1 (10/25/2022)
 - Start this learning record page
 - Start Step 0 - learning Rust programming
-- Complete ?/84 rustlings
+- Complete 31/84 rustlings
 - Get exposed to ownership concepts
+
+## Day 2 (10/26/2022)
+- Busy with work
+
+## Day 3 (10/27/2022)
+- Complete 63/84 rustlings
+- Get familiar with Rust error handling
+- Get familiar with some Rust std usages
